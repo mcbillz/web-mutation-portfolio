@@ -192,7 +192,12 @@ nav {
     font-size: x-small;
   }
   .section1 {
-    height: 400px;
+    height: fit-content;
+    padding-bottom: 50%;
+  }
+  .heroImg img {
+    width: 80%;
+    margin-top: 30%;
   }
   .anim {
     font-size: x-small;
